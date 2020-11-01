@@ -1,2 +1,4 @@
 # HuffmanTree
- Huffman tree is an app that draw a huffman tree for incomming text for encripting it or decript it back from huffman tree.
+Tags: Algorithms - maintainable code style
+
+○ It is a program that get a text and use recursion algorithm to build a Huffman tree for this text. Also, the program can take a Huffman tree and try to restore the text. This can give us ability to encrypt and decrypt a text somehow.
